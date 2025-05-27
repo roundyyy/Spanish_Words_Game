@@ -6,13 +6,13 @@ An Android app to help you learn Spanish vocabulary through interactive matching
 
 ## What is Spanish Words?
 
-Spanish Words is a vocabulary learning app that helps you memorize Spanish words by matching them with their English translations. The app includes over 15,000 word pairs with helpful memory aids called mnemonics.
+Spanish Words is a vocabulary learning app that helps you memorize Spanish words by matching them with their English translations. The app includes 5,000 word pairs with helpful memory aids called mnemonics.
 
 ## Features
 
 - **Matching Game**: Match English words with their Spanish translations
 - **Memory Aids**: Long-press Spanish words to see mnemonics that help you remember them
-- **Large Vocabulary**: Over 15,000 English-Spanish word pairs to learn from
+- **Large Vocabulary**: 5,000 English-Spanish word pairs to learn from
 - **Swappable Layout**: Switch between Spanish-English and English-Spanish matching
 - **Progress Tracking**: The app remembers which words you've already practiced
 - **Sound Effects**: Audio feedback for interactions
