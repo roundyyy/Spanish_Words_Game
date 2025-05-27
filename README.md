@@ -1,6 +1,6 @@
 # Spanish Words
 
-An Android app to help you learn Spanish vocabulary through interactive matching games.
+An Android app to help you learn Spanish vocabulary through interactive matching game.
 
 ![Spanish Words App](screenshot.jpg)
 
