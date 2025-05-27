@@ -1,9 +1,0 @@
-AUDIO FILES NEEDED:
-
-Place the following MP3 files in this assets directory:
-
-1. click.mp3 - A short click sound (< 0.5 seconds) that plays when selecting words
-2. complete.mp3 - A completion sound that plays when finishing a round of word matching
-
-Make sure these are actual MP3 audio files, not text files.
-The app will handle them gracefully if they're missing (no sounds will play). 
