@@ -44,3 +44,7 @@ Download the latest version of the app from the [Releases](https://github.com/ro
 ## Contact
 
 For questions or suggestions about the app, please open an issue on this repository. 
+
+## Acknowledgments
+
+Special thanks to [Gary Hall](https://garyhall.org.uk) for providing the Spanish-English word list from his [Most Common 5000 Words resource](https://garyhall.org.uk/language/Spanish-English-Most-Common-5000-Words-In-Alphabetical-Order.html), which forms the foundation of this app's dictionary.
