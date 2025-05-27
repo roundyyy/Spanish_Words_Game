@@ -15,7 +15,7 @@ Spanish Words is a vocabulary learning app that helps you memorize Spanish words
 - **Large Vocabulary**: 5,000 English-Spanish word pairs to learn from
 - **Swappable Layout**: Switch between Spanish-English and English-Spanish matching
 - **Progress Tracking**: The app remembers which words you've already practiced
-- **Sound Effects**: Audio feedback for interactions
+
 
 ## How to Use
 
@@ -27,7 +27,7 @@ Spanish Words is a vocabulary learning app that helps you memorize Spanish words
 
 ## Download
 
-Download the latest version of the app from the [Releases](../../releases) page.
+Download the latest version of the app from the [Releases](https://github.com/roundyyy/Spanish_Words_Game/releases/tag/0.1) page.
 
 ## Requirements
 
